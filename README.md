@@ -8,4 +8,4 @@
 
 ### Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=donizeteq&repo=tiktok)](https://github.com/anuraghazra/github-readme-stats)
+
