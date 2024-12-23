@@ -1,4 +1,6 @@
 <h1>👋 &nbsp;Olá, eu sou o Donizete, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/donizete-queiroz-12884434"><img src="https://img.shields.io/badge/-Donizete%20Queiroz%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:donizeteqsud@gmail.com"><img src="https://img.shields.io/badge/-donizeteqsud@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -132,17 +134,11 @@ Sou **SUD (Santos dos Últimos Dias)**, o que influencia diretamente meus valore
 
 Se quiser trocar uma ideia, colaborar em algum projeto ou apenas bater um papo, é só me chamar:  
 
-[![Donizete Queiroz](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:seu.email@gmail.com)  
-
 ---
 
 **_"A tecnologia move o mundo, mas as pessoas movem a tecnologia."_ 🚀**  
 
 ---
-
-Gostou dessa versão? Está tudo estruturado para impressionar no **GitHub**! Se quiser ajustar algo ou adicionar mais detalhes, é só avisar. 😊👨🏻‍💻✨  
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
