@@ -77,7 +77,7 @@ O aprendizado nunca para! Atualmente estou cursando **Full Stack Club**, aprimor
 
 Além de programador, sou também:  
 - 🚀 **Empreendedor**  
-- 🛠️ **Resolutor de Problemas**  
+- 🛠️ **Resolvedor de Problemas**  
 - 📊 **Especialista em Infraestrutura**  
 
 Com **30 anos de experiência na área de tecnologia**, aprendi que cada dia é uma nova chance de **aprender algo novo e fazer a diferença**.  
@@ -89,10 +89,10 @@ Com **30 anos de experiência na área de tecnologia**, aprendi que cada dia é 
 Minha maior prioridade sempre será minha **família**:  
 
 - ❤️ **Minha esposa**, meu porto seguro e maior apoiadora.  
-- 🎨 **Meu irmão designer**.  
-- 💻 **Outro irmão atuando na área de TI**, atualmente em **missão em Florianópolis**, retornando em **julho**, além de ser **faixa-preta em Jiu-Jitsu**.  
-- 👦 **Meu filho de 11 anos**, com uma incrível mentalidade empreendedora.  
-- 👶 **Meu bebê de 3 anos**, que me surpreende todos os dias com sua inteligência.  
+- 🎨 **Minha Filha Natasha Rinoa designer**.  
+- 💻 **Minha Filha Emmyly TI**, atualmente em **missão em Florianópolis**, retornando em **julho**, além de ser minha guerreira **faixa-preta em Jiu-Jitsu**.  
+- 👦 **Meu Filho Derek de 11 anos**, com uma incrível mentalidade empreendedora.  
+- 👶 **Meu bebê Dylan de 3 anos**, que me surpreende todos os dias com sua inteligência.  
 
 ---
 
