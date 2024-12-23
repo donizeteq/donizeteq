@@ -1,10 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Donizete, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
-<a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-dicasparadevs-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/donizete-queiroz-12884434"><img src="https://img.shields.io/badge/-Donizete%20Queiroz%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:donizeteqsud@gmail.com"><img src="https://img.shields.io/badge/-donizeteqsud@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
@@ -135,7 +132,7 @@ Sou **SUD (Santos dos Últimos Dias)**, o que influencia diretamente meus valore
 
 Se quiser trocar uma ideia, colaborar em algum projeto ou apenas bater um papo, é só me chamar:  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)  
+[![Donizete Queiroz](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:seu.email@gmail.com)  
 
