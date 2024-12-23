@@ -1,5 +1,10 @@
 <h1>👋 &nbsp;Olá, eu sou o Donizete, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 
+## 📫 **Entre em Contato**  
+
+Se quiser trocar uma ideia, colaborar em algum projeto ou apenas bater um papo, é só me chamar:  
+
+---
 
 <p align="center">
 <a href="https://www.linkedin.com/in/donizete-queiroz-12884434"><img src="https://img.shields.io/badge/-Donizete%20Queiroz%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -127,12 +132,6 @@ Sou **SUD (Santos dos Últimos Dias)**, o que influencia diretamente meus valore
 | AWS                 | ⭐⭐⭐✰✰   |  
 | MikroTik             | ⭐⭐⭐✰✰   |  
 | Segurança de Redes   | ⭐⭐⭐✰✰   |  
-
----
-
-## 📫 **Entre em Contato**  
-
-Se quiser trocar uma ideia, colaborar em algum projeto ou apenas bater um papo, é só me chamar:  
 
 ---
 
